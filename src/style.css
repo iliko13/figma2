@@ -272,3 +272,13 @@ img {
     text-align: center;
     letter-spacing: 0.3px;
 }
+@media only screen and (max-width: 992px){
+    .banner1 {
+        width: 900px;
+    }
+}
+@media only screen and (max-width: 992px){
+    .footer {
+        width: 900px;
+    }
+}
