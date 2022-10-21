@@ -274,11 +274,35 @@ img {
 }
 @media only screen and (max-width: 992px){
     .banner1 {
-        width: 900px;
+        width: 912px;
     }
 }
 @media only screen and (max-width: 992px){
     .footer {
-        width: 900px;
+        width: 912px;
+    }
+}
+@media only screen and (max-width: 768px){
+    .banner1 {
+        width: 768px;
+    }
+    .footer {
+        width: 768px;
+    }
+}
+@media only screen and (max-width: 820px){
+    .banner1 {
+        width: 820px;
+    }
+    .footer {
+        width: 820px;
+    }
+}
+@media only screen and (max-width: 390px){
+    .banner1 {
+        width: 390px;
+    }
+    .footer {
+        width: 390px;
     }
 }
